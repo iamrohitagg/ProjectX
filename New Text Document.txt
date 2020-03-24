@@ -12,3 +12,5 @@ update changes in local add commit
 push to personal cloud
 
 create a PR
+
+We will and are gonna be a good developer.
