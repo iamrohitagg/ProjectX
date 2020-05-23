@@ -1,1 +1,14 @@
 Hey
+Team we will create our first PR
+
+The flow is something like this
+
+Company-cloud  personal-cloud  local
+
+
+
+update changes in local add commit
+
+push to personal cloud
+
+create a PR
